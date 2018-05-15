@@ -1,0 +1,32 @@
+CONSTRUCTOR =>
+
+         1> constructor can use any access modifier private, protected , public , default as per its use.
+
+         2> Private constructor is used in singleton pattern in which we don't want to create to many
+           instance of a class 
+
+for eg : database connectivity,
+		 session management,
+		 to restrict user and apply filter through getters and setters .
+		 
+
+         3> The constructor name should be as of class name and no return statement .
+
+         4> Never create object of same class in constructor because it will cause stack 
+           over flow by getting into the loop with no terminating condition.
+
+         5> If we provide any constructor then the compiler will not provide any default constructor .
+
+
+         6> If their is only Parameterized constructor in super class then sub class also must have parameterized constructor.
+
+         7> If we use super key word in constructor then first super class constructor is called then sub Class constructor is called .
+
+         8> We can not call constructor. it can be called only when the object is created .
+
+
+
+
+		  
+
+

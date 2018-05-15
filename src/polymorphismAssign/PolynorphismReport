@@ -1,0 +1,8 @@
+POLYMORPHISMS :
+         1> if reference of object is of sub type than we can access each and every field and method of 
+            super class which are of protected mode or greater scope than that.    
+         
+         2> if reference of object is of super type then we can access only super class methods not of 
+           sub class method to do so we need to type cast.
+        
+         

@@ -1,0 +1,21 @@
+OVER-RIDING
+
+while overRiding any function we can not decrease the visibility of inherited method
+but we can increase the visibility of inherited method.
+
+Cannot override the final method from SuperClass.
+
+Cannot override static method.
+
+we can have static method with same name in sub and superclass and call them by their reference.
+
+If method is not their we can not override it but new method will be created in that class .
+
+if the method is static then we can call it by superclass and sub class both reference and 
+super class and sub class may have same signature static method but sub class hides the super 
+class method 
+
+
+
+
+

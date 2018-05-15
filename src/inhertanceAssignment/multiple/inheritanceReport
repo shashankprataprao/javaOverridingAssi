@@ -1,0 +1,13 @@
+InterFaces:
+
+
+         1> If their is two interfaces with same function name in default function then it is 
+            compulsory to override one of the default method.
+            
+         2> If their are two interfaces with same function name and with same signature then only one will be overridden
+            which create a problem.
+            
+         3> Interfaces should be public .
+         
+     
+     
